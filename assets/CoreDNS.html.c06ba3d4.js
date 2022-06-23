@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-446eafa8","path":"/CoreDNS.html","title":"DNS","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656003187000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"CoreDNS.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-07556a92","path":"/Caddy.html","title":"DNS","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656003187000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"Caddy.md"}');export{e as data};
