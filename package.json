@@ -11,5 +11,10 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/bundler-webpack": "^2.0.0-beta.45",
+    "@vuepress/plugin-docsearch": "^2.0.0-alpha.1",
+    "@vuepress/plugin-shiki": "^2.0.0-beta.5"
   }
 }
