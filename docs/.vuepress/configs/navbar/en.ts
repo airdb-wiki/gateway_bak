@@ -96,10 +96,10 @@ export const navbarEn: NavbarConfig = [
       {
         text: 'Anti-Bot',
         children: [
-          '/contributing.md',
+          '/waf/README.md',
           {
             text: 'Awesome VuePress',
-            link: 'https://github.com/vuepress/awesome-vuepress',
+            link: '/waf/',
           },
         ],
       },
