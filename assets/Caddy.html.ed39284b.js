@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as d,a as e,b as r}from"./app.a9a0c363.js";const s={},c=e("h1",{id:"dns",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#dns","aria-hidden":"true"},"#"),r(" DNS")],-1),n=[c];function o(_,i){return t(),d("div",null,n)}var l=a(s,[["render",o],["__file","Caddy.html.vue"]]);export{l as default};
