@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1ef64f60","path":"/alb/Nginx.html","title":"DNS","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658332861000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"alb/Nginx.md"}');export{e as data};
