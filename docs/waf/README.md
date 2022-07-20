@@ -10,6 +10,8 @@ Related Projects
 
 https://owasp.org/www-project-benchmark/
 
+https://www.thesslstore.com/blog/google-wants-grease-chrome/
+
 CC:
 
 Bot:
