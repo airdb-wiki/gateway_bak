@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,a as e,b as o}from"./app.bdbdb83c.js";const s={},c=e("h1",{id:"dns",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#dns","aria-hidden":"true"},"#"),o(" DNS")],-1),n=[c];function _(d,i){return a(),r("div",null,n)}var l=t(s,[["render",_],["__file","Certbot.html.vue"]]);export{l as default};

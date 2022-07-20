@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-062ce827","path":"/alb/Certbot.html","title":"DNS","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658332861000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"alb/Certbot.md"}');export{e as data};
