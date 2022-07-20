@@ -20,106 +20,45 @@ export const sidebarEn: SidebarConfig = {
       ],
     },
   ],
-  '/advanced/': [
+  '/alb/': [
     {
-      text: 'Advanced',
+      text: 'nginx',
       children: [
-        '/advanced/architecture.md',
-        '/advanced/plugin.md',
-        '/advanced/theme.md',
+        '/alb/nginx.md',
       ],
     },
     {
-      text: 'Cookbook',
+      text: 'caddy',
       children: [
-        '/advanced/cookbook/README.md',
-        '/advanced/cookbook/usage-of-client-config.md',
-        '/advanced/cookbook/adding-extra-pages.md',
-        '/advanced/cookbook/making-a-theme-extendable.md',
-        '/advanced/cookbook/passing-data-to-client-code.md',
-        '/advanced/cookbook/markdown-and-vue-sfc.md',
+        '/alb/caddy.md',
+      ],
+    },
+    {
+      text: 'tools',
+      children: [
+        '/alb/certbot.md',
+        '/alb/traffic-replay.md',
       ],
     },
   ],
-  '/reference/': [
+  '/waf/': [
     {
-      text: 'VuePress Reference',
-      collapsible: true,
+      text: 'waf',
+      collapsible: false,
       children: [
-        '/reference/cli.md',
-        '/reference/config.md',
-        '/reference/frontmatter.md',
-        '/reference/components.md',
-        '/reference/plugin-api.md',
-        '/reference/theme-api.md',
-        '/reference/client-api.md',
-        '/reference/node-api.md',
+        '/waf/README.md',
+        '/waf/cybersecurity.md',
+        '/waf/anti-bot.md',
+        '/waf/anti-cc.md',
+        '/waf/anti-crawler.md',
       ],
     },
     {
-      text: 'Bundlers Reference',
-      collapsible: true,
-      children: ['/reference/bundler/vite.md', '/reference/bundler/webpack.md'],
-    },
-    {
-      text: 'Default Theme Reference',
-      collapsible: true,
+      text: 'tools',
       children: [
-        '/reference/default-theme/config.md',
-        '/reference/default-theme/frontmatter.md',
-        '/reference/default-theme/components.md',
-        '/reference/default-theme/markdown.md',
-        '/reference/default-theme/styles.md',
-        '/reference/default-theme/extending.md',
-      ],
-    },
-    {
-      text: 'Official Plugins Reference',
-      collapsible: true,
-      children: [
-        {
-          text: 'Common Features',
-          children: [
-            '/reference/plugin/back-to-top.md',
-            '/reference/plugin/container.md',
-            '/reference/plugin/external-link-icon.md',
-            '/reference/plugin/google-analytics.md',
-            '/reference/plugin/medium-zoom.md',
-            '/reference/plugin/nprogress.md',
-            '/reference/plugin/register-components.md',
-          ],
-        },
-        {
-          text: 'Content Search',
-          children: [
-            '/reference/plugin/docsearch.md',
-            '/reference/plugin/search.md',
-          ],
-        },
-        {
-          text: 'PWA',
-          children: [
-            '/reference/plugin/pwa.md',
-            '/reference/plugin/pwa-popup.md',
-          ],
-        },
-        {
-          text: 'Syntax Highlighting',
-          children: [
-            '/reference/plugin/prismjs.md',
-            '/reference/plugin/shiki.md',
-          ],
-        },
-        {
-          text: 'Theme Development',
-          children: [
-            '/reference/plugin/active-header-links.md',
-            '/reference/plugin/git.md',
-            '/reference/plugin/palette.md',
-            '/reference/plugin/theme-data.md',
-            '/reference/plugin/toc.md',
-          ],
-        },
+        '/waf/tcp-fingerprint.md',
+        '/waf/tls-fingerprint.md',
+        '/waf/http2-fingerprint.md',
       ],
     },
   ],

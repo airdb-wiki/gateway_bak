@@ -1,3 +1,4 @@
+# Intro
 # Red Team vs. Blue Team in Cybersecurity
 
 Both red teams and blue teams work toward improving an organization’s security, but they do so differently. A red team plays the role of the attacker by trying to find vulnerabilities and break through cybersecurity defenses. A blue team defends against attacks and responds to incidents when they occur.
