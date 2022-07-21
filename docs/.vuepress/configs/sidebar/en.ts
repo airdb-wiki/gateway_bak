@@ -61,5 +61,11 @@ export const sidebarEn: SidebarConfig = {
         '/waf/http2-fingerprint.md',
       ],
     },
+    {
+      text: 'strategy',
+      children: [
+        '/waf/strategy.md',
+      ],
+    }
   ],
 }
