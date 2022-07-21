@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as o,a as t,b as n}from"./app.14c59cb2.js";const c={},r=t("h1",{id:"anti-bot",tabindex:"-1"},[t("a",{class:"header-anchor",href:"#anti-bot","aria-hidden":"true"},"#"),n(" anti-bot")],-1),s=t("p",null,"APIs Protection",-1),i=[r,s];function _(d,l){return a(),o("div",null,i)}var f=e(c,[["render",_],["__file","anti-bot.html.vue"]]);export{f as default};
