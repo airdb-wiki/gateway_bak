@@ -74,6 +74,8 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/replay/README.md',
         '/replay/tcp.md',
+        '/replay/udp.md',
+        '/replay/http.md',
       ]
     }
   ]
