@@ -68,4 +68,13 @@ export const sidebarEn: SidebarConfig = {
       ],
     }
   ],
+  '/replay/': [
+    {
+      text: 'Traffic Replay',
+      children: [
+        '/replay/README.md',
+        '/replay/tcp.md',
+      ]
+    }
+  ]
 }
