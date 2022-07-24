@@ -81,5 +81,10 @@ tcpprep -p --pcap=vxlan_test1.pcap --cachefile=test1.cache
 
 tcprewrite --cachefile=test1.cache --endpoints="192.168.252.18:192.168.252.17" --infile=vxlan_test1.pcap --outfile=testvx1.pcap
 
+```bash
+# 强制计算传输层校验和:
+tcprewrite --fixcsum --infile=mysql.pcap --outfile=mysql.pcap
+
+```
 
 [Tcpreplay 、tcpprep、tcprewrite 修改报文使用教程](https://blog.csdn.net/abcdu1/article/details/121126129)
