@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as t,a as e,b as n}from"./app.b1f0321b.js";const r={},o=e("h1",{id:"anti-cc",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#anti-cc","aria-hidden":"true"},"#"),n(" anti-cc")],-1),s=[o];function i(_,d){return c(),t("div",null,s)}var l=a(r,[["render",i],["__file","anti-cc.html.vue"]]);export{l as default};
