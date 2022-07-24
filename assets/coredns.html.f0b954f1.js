@@ -1,0 +1,1 @@
+import{_ as r,o as a,c,a as e,b as o}from"./app.1ed9f00f.js";const s={},t=e("h1",{id:"coredns",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#coredns","aria-hidden":"true"},"#"),o(" CoreDNS")],-1),n=[t];function d(_,i){return a(),c("div",null,n)}var l=r(s,[["render",d],["__file","coredns.html.vue"]]);export{l as default};
