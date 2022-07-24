@@ -35,9 +35,27 @@ tcpprep -an client -i p.pcap -o p.cache –v
 
 tcpprep：根据pcap文件，生成一个cache文件。将pacp数据包分解为客户端和服务器端。这个cache文件中保存着tcprewrite怎么修改报文，以及tcpreplay怎么发送报文的规则。也就是说，在你捕获的报文中有很多报文，这些报文可能有不同的源和目的（可能单播，可能广播），现在要确立一套规则，来规定你所捕获的报文，怎么个分发流程。
 
+```bash
+# 根据源 IP
+tcpprep -c 10.5.8.244/24 -i mysql.pcap -o mysql.cach
+
+# 自动模式
+tcpprep -a client -i mgcp.pcap -o mgcp.cach
+```
+
 ## tcprewrite
 
 https://tcpreplay.appneta.com/wiki/tcprewrite
+
+```bash
+tcprewrite --option1=xxx --option2=xxx  -c input.cache -i input.pcap -o out.pcap
+
+tcprewrite --enet-smac=host_src_mac,client_src_mac \
+            --enet-dmac=host_dst_mac, client_dst_mac \
+            --endpoints=host_dst_ip:client_dst_ip \
+            --portmap=old_port1:new_port1 old_port2, new_port2 \
+            -i input.pcap -c input.cach -o out.pcap
+```
 
 ### 最少有两个参数：
 --infile = input.pcap。原始数据包。
@@ -62,3 +80,6 @@ tcprewrite --portmap=80:8080,22:8022 --infile=input.pcap --outfile=output.pcap
 tcpprep -p --pcap=vxlan_test1.pcap --cachefile=test1.cache
 
 tcprewrite --cachefile=test1.cache --endpoints="192.168.252.18:192.168.252.17" --infile=vxlan_test1.pcap --outfile=testvx1.pcap
+
+
+[Tcpreplay 、tcpprep、tcprewrite 修改报文使用教程](https://blog.csdn.net/abcdu1/article/details/121126129)
