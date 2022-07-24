@@ -87,4 +87,4 @@ tcprewrite --fixcsum --infile=mysql.pcap --outfile=mysql.pcap
 
 ```
 
-[Tcpreplay 、tcpprep、tcprewrite 修改报文使用教程](https://blog.csdn.net/abcdu1/article/details/121126129)
+[Tcpreplay 重放数据](https://www.i4k.xyz/article/u012206617/86558728)
