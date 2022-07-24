@@ -1,22 +1,13 @@
 import type { SidebarConfig } from '@vuepress/theme-default'
 
 export const sidebarEn: SidebarConfig = {
-  '/guide/': [
+  '/dns/': [
     {
-      text: 'Guide',
+      text: 'DNS',
       children: [
-        '/README.md',
-        '/guide/getting-started.md',
-        '/guide/configuration.md',
-        '/guide/page.md',
-        '/guide/markdown.md',
-        '/guide/assets.md',
-        '/guide/i18n.md',
-        '/guide/deployment.md',
-        '/guide/theme.md',
-        '/guide/plugin.md',
-        '/guide/bundler.md',
-        '/guide/migration.md',
+        '/dns/README.md',
+        '/dns/doh.md',
+        '/dns/coredns.md',
       ],
     },
   ],
