@@ -54,3 +54,14 @@ Extension: padding (len=203)
 17513-21 (application_setting, padding)
 ```
 
+https://imququ.com/post/optimize-tls-handshake.html
+
+
+https://icefrozen.github.io/article/tcpip-4-SSL-TLS-3/
+
+
+TLS 常见的攻击举例
+- Heartbleed（心脏出血）
+- Replay Attacks（重放攻击）
+- 降级攻击(FREAK，LogJam 和 CurveSwap)
+
