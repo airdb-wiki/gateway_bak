@@ -31,6 +31,15 @@ export const sidebarEn: SidebarConfig = {
         '/alb/traffic-replay.md',
       ],
     },
+    {
+      text: 'Protection',
+      collapsible: false,
+      children: [
+        '/alb/rate-limit.md',
+        '/alb/downgrade.md',
+        '/alb/circuit-break.md',
+      ],
+    }, 
   ],
   '/waf/': [
     {
