@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-30e30d4f","path":"/alb/circuit-break.html","title":"Circuit Breaker","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658808375000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"alb/circuit-break.md"}');export{e as data};

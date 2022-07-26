@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-32805fb5","path":"/alb/downgrade.html","title":"Downgrade","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658808375000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"alb/downgrade.md"}');export{e as data};

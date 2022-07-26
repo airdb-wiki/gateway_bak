@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-79b2fc30","path":"/alb/nginx.html","title":"Nginx","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658808375000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":2}]},"filePathRelative":"alb/nginx.md"}');export{e as data};
