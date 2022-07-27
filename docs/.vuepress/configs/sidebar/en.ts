@@ -68,9 +68,17 @@ export const sidebarEn: SidebarConfig = {
       ],
     }
   ],
-  '/replay/': [
+  '/advanced/': [
+    {
+      text: 'Disaster Recovery',
+      children: [
+        '/advanced/README.md',
+        '/advanced/dr.md',
+      ]
+    },
     {
       text: 'Traffic Replay',
+      collapsible: true,
       children: [
         '/replay/README.md',
         '/replay/tcp.md',

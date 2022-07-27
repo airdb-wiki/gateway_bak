@@ -23,8 +23,7 @@ export const navbarEn: NavbarConfig = [
     link: '/waf/',
   },
   {
-    text: 'Replay',
-    link: '/replay/',
-
+    text: 'Advanced',
+    link: '/advanced/',
   }
 ]
