@@ -9,4 +9,4 @@ tcpdump -XvvennSs 0 -i eth0 tcp[20:2]=0x4745 or tcp[20:2]=0x4854
 
 [goreplay](https://github.com/buger/goreplay)
 
-![](../.vuepress/public/go-replay.jpg)
+![](../../.vuepress/public/go-replay.jpg)
