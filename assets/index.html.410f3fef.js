@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as t,a as e,b as r}from"./app.f2675b78.js";const d={},n=e("h1",{id:"advanced-practices",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#advanced-practices","aria-hidden":"true"},"#"),r(" Advanced Practices")],-1),s=[n];function o(i,_){return c(),t("div",null,s)}var l=a(d,[["render",o],["__file","index.html.vue"]]);export{l as default};
