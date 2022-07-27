@@ -65,3 +65,8 @@ TLS 常见的攻击举例
 - Replay Attacks（重放攻击）
 - 降级攻击(FREAK，LogJam 和 CurveSwap)
 
+
+OpenSSL:
+https://www.openssl.org/docs/man1.1.1/man3/SSL_CTX_set_session_ticket_cb.html
+
+https://www.openssl.org/docs/man1.1.1/man3/SSL_client_hello_get0_ciphers.html
