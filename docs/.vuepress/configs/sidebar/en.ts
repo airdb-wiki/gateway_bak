@@ -80,10 +80,10 @@ export const sidebarEn: SidebarConfig = {
       text: 'Traffic Replay',
       collapsible: true,
       children: [
-        '/replay/README.md',
-        '/replay/tcp.md',
-        '/replay/udp.md',
-        '/replay/http.md',
+        '/advanced/replay/README.md',
+        '/advanced/replay/tcp.md',
+        '/advanced/replay/udp.md',
+        '/advanced/replay/http.md',
       ]
     }
   ]
