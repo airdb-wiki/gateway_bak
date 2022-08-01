@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-062ce827","path":"/alb/Certbot.html","title":"Certbot","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658334128000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":2}]},"filePathRelative":"alb/Certbot.md"}');export{t as data};
