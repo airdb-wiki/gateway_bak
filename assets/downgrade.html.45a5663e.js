@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as d,a as e,d as o}from"./app.fd87150e.js";const t={},n=e("h1",{id:"downgrade",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#downgrade","aria-hidden":"true"},"#"),o(" Downgrade")],-1),c=[n];function s(_,i){return r(),d("div",null,c)}var l=a(t,[["render",s],["__file","downgrade.html.vue"]]);export{l as default};
