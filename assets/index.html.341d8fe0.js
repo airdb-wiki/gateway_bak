@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-638c1d18","path":"/advanced/","title":"Advanced Practices","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660480710000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":2}]},"filePathRelative":"advanced/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as n,a as e,d as c}from"./app.997ab63e.js";const o={},r=e("h1",{id:"nlb",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#nlb","aria-hidden":"true"},"#"),c(" NLB")],-1),s=e("p",null,"DPDK",-1),_=[r,s];function d(i,l){return a(),n("div",null,_)}var f=t(o,[["render",d],["__file","index.html.vue"]]);export{f as default};
