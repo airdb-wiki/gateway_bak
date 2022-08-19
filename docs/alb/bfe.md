@@ -4,6 +4,8 @@ https://chaosstudygroup.github.io/bfe-book/index.html
 
 
 
+https://www.bfe-networks.net/zh_cn/example/route/
+
 conf/tls_conf/server_cert_conf.data
 conf/server_data_conf/route_rule.data
 
