@@ -1,1 +1,0 @@
-import{_ as r,o as a,c,a as e,d as t}from"./app.997ab63e.js";const i={},o=e("h1",{id:"circuit-breaker",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#circuit-breaker","aria-hidden":"true"},"#"),t(" Circuit Breaker")],-1),s=[o];function _(n,d){return a(),c("div",null,s)}var h=r(i,[["render",_],["__file","circuit-break.html.vue"]]);export{h as default};
