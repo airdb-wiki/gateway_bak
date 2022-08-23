@@ -8,7 +8,6 @@ In this article, we’ll take a closer look at what it’s like as a cybersecuri
 
 ## Benefits of a red team vs. blue team approach
 
-
 One way organizations can assess their security capabilities is to stage a red team/blue team exercise. These two teams of professionals face off to put a security infrastructure to the test in a simulation meant to mimic a real attack. Taking a red team versus blue team approach to cybersecurity can have several benefits, allowing security teams to:
 
 Find vulnerabilities
