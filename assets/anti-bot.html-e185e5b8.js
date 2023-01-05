@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5c1382ef","path":"/docs/waf/anti-bot.html","title":"anti-bot","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1658334128000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"docs/waf/anti-bot.md"}');export{t as data};

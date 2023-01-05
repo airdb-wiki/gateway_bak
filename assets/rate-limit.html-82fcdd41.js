@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-048876b8","path":"/docs/alb/rate-limit.html","title":"Rate Limiter","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1658808375000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"docs/alb/rate-limit.md"}');export{t as data};

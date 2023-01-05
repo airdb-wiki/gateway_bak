@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-223b87c9","path":"/alb/bfe.html","title":"BFE","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660926864000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":3}]},"filePathRelative":"alb/bfe.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-cc5ead0c","path":"/waf/strategy.html","title":"Strategy","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658366425000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"waf/strategy.md"}');export{t as data};
