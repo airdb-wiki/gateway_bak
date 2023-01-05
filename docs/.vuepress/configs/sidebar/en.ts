@@ -27,6 +27,7 @@ export const sidebarEn: SidebarConfig = {
     {
       text: 'tools',
       children: [
+        '/alb/lego.md',
         '/alb/certbot.md',
         '/alb/traffic-replay.md',
       ],
