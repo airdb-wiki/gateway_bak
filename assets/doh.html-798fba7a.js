@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4cf3595b","path":"/dns/doh.html","title":"DNS over HTTPS","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1658641828000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"dns/doh.md"}');export{e as data};

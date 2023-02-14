@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-785b1d84","path":"/alb/ssl.html","title":"SSL improvement","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1659068803000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"alb/ssl.md"}');export{e as data};
