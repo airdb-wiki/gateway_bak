@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-7a3aa4c5","path":"/docs/alb/lego.html","title":"Lego","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1672892705000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"docs/alb/lego.md"}');export{a as data};

@@ -1,1 +1,0 @@
-import{_ as e,p as o,q as a,R as t,t as n}from"./framework-96b046e1.js";const s={},c=t("h1",{id:"anti-bot",tabindex:"-1"},[t("a",{class:"header-anchor",href:"#anti-bot","aria-hidden":"true"},"#"),n(" anti-bot")],-1),r=t("p",null,"APIs Protection",-1),i=[c,r];function _(d,l){return o(),a("div",null,i)}const f=e(s,[["render",_],["__file","anti-bot.html.vue"]]);export{f as default};
