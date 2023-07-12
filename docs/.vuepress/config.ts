@@ -20,13 +20,13 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'Airdb Gateway',
-      description: 'Gateway, DNS, WAF',
+      title: 'Security Gateway',
+      description: 'Desgin An API Gateway with DNS, NLB, ALB and WAF...',
     },
     '/zh/': {
       lang: 'zh-CN',
-      title: 'VuePress',
-      description: 'Vue 驱动的静态网站生成器',
+      title: '安全网关',
+      description: '设计一个具备 DNS, 4 层、7 层和防火墙的安全网关',
     },
   },
 
