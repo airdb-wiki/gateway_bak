@@ -17,10 +17,10 @@
 | 1 | pc_web |
 | 2 | ios_web |
 | 3 | ios_app |
-| 4 | android_web |
-| 5 | android_app |
-| 6 | android_tablet |
-| 7 | ios_tablet |
+| 4 | ios_tablet |
+| 5 | android_web |
+| 6 | android_app |
+| 7 | android_tablet |
 | 8 | tv |
 
 ## Action
@@ -33,4 +33,5 @@
 | 3 | forcelogin | 强制登录 |
 | 4 | fakedata | 伪造数据 |
 | 5 | flag | 标记 |
+| 6 | flag | Verification |
 | 9 | client block | 客户端拦截 |
