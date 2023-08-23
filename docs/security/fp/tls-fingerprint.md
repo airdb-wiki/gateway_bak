@@ -66,6 +66,14 @@ TLS 常见的攻击举例
 - 降级攻击(FREAK，LogJam 和 CurveSwap)
 
 
+TlsCipherSuite Enum
+https://learn.microsoft.com/en-us/dotnet/api/system.net.security.tlsciphersuite?view=net-7.0
+
+ios cipher values
+https://developer.apple.com/documentation/security/1550981-ssl_cipher_suite_values
+
+https://www.ssllabs.com/ssltest/analyze.html?d=google.com
+
 OpenSSL:
 https://www.openssl.org/docs/man1.1.1/man3/SSL_CTX_set_session_ticket_cb.html
 

@@ -42,34 +42,38 @@ export const sidebarEn: SidebarConfig = {
       ],
     }, 
   ],
-  '/waf/': [
+  '/security/': [
     {
-      text: 'waf',
+      text: 'security',
       collapsible: false,
       children: [
-        '/waf/README.md',
-        '/waf/cybersecurity.md',
-        '/waf/anti-bot.md',
-        '/waf/anti-cc.md',
-        '/waf/anti-crawler.md',
+        '/security/README.md',
+        '/security/cybersecurity.md',
+        '/security/anti-cc.md',
+        '/security/anti-crawler.md',
       ],
     },
     {
       text: 'http',
       children: [
-        '/waf/tcp-fingerprint.md',
-        '/waf/http/tls-fingerprint.md',
-        '/waf/http/http2-fingerprint.md',
-        '/waf/http/ip.md',
-        '/waf/http/user-agent.md',
-        '/waf/http/general-header.md',
-        '/waf/http/custom-header.md',
+        '/security/http/ip.md',
+        '/security/http/user-agent.md',
+        '/security/http/general-header.md',
+        '/security/http/custom-header.md',
+      ],
+    },
+    {
+      text: 'fingerprint',
+      children: [
+        '/security/fp/tcp-fingerprint.md',
+        '/security/fp/tls-fingerprint.md',
+        '/security/fp/http2-fingerprint.md',
       ],
     },
     {
       text: 'strategy',
       children: [
-        '/waf/strategy.md',
+        '/security/strategy.md',
       ],
     }
   ],

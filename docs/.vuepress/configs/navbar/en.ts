@@ -19,8 +19,8 @@ export const navbarEn: NavbarConfig = [
     link: '/alb/',
   },
   {
-    text: 'WAF',
-    link: '/waf/',
+    text: 'Security',
+    link: '/security/',
   },
   {
     text: 'Advanced',
