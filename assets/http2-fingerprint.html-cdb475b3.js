@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-394cdfd3","path":"/waf/http/http2-fingerprint.html","title":"HTTP2 Fingerprint","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1692755431000,"contributors":[{"name":"bumu","email":"bumu@airdb.io","commits":1}]},"filePathRelative":"waf/http/http2-fingerprint.md"}');export{t as data};
