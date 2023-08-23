@@ -74,6 +74,7 @@ export const sidebarEn: SidebarConfig = {
       text: 'strategy',
       children: [
         '/security/strategy.md',
+        '/security/fields.md',
       ],
     }
   ],

@@ -1,4 +1,4 @@
-# Security
+# Indicator Fields
 
 ## General_Header
 
@@ -65,6 +65,15 @@ browser_chromium_version: 114,
 ## origin
 
 IP
-IP_type: DCH,  PROXY,  internal...
+IP_type: DCH, CDN, PROXY,  internal...
 city
 isp
+
+## Fingerprint
+
+- tls_ja3_fp
+- tls_ja3_fp_hash
+- h2_fp
+- h2_fp_hash
+- device_fp
+- device_fp_hash
