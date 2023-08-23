@@ -71,8 +71,8 @@ isp
 
 ## Fingerprint
 
-- tls_ja3_fp
-- tls_ja3_fp_hash
+- tls_fp: ja3 fingperint
+- tls_fp_hash: ja3 fingperint hash
 - h2_fp
 - h2_fp_hash
 - device_fp
