@@ -1,1 +1,0 @@
-import{_ as t,o as a,c,a as e,b as o}from"./app-70b995b6.js";const r={},s=e("h1",{id:"custom-header",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#custom-header","aria-hidden":"true"},"#"),o(" Custom Header")],-1),d=[s];function n(_,h){return a(),c("div",null,d)}const m=t(r,[["render",n],["__file","custom-header.html.vue"]]);export{m as default};

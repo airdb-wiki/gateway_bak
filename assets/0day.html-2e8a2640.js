@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-66d82197","path":"/security/0day.html","title":"0day","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1692781408000,"contributors":[{"name":"bumu","email":"bumu@airdb.io","commits":1}]},"filePathRelative":"security/0day.md"}');export{t as data};

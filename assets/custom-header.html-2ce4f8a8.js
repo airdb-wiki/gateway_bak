@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-82bd0fbe","path":"/security/http/custom-header.html","title":"Custom Header","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1692781408000,"contributors":[{"name":"bumu","email":"bumu@airdb.io","commits":1}]},"filePathRelative":"security/http/custom-header.md"}');export{t as data};

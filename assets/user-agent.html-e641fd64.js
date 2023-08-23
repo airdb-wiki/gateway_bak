@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-46136fc5","path":"/security/http/user-agent.html","title":"User-Agent","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1692781408000,"contributors":[{"name":"bumu","email":"bumu@airdb.io","commits":1}]},"filePathRelative":"security/http/user-agent.md"}');export{t as data};

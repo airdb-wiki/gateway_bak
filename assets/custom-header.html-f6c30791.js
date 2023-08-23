@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-2ec83baa","path":"/waf/http/custom-header.html","title":"Custom Header","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1692755431000,"contributors":[{"name":"bumu","email":"bumu@airdb.io","commits":1}]},"filePathRelative":"waf/http/custom-header.md"}');export{t as data};
