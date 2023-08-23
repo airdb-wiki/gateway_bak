@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,a as e,b as n}from"./app-c6ba43cf.js";const c={},d=e("h1",{id:"general-header",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#general-header","aria-hidden":"true"},"#"),n(" general header")],-1),o=[d];function s(_,l){return r(),t("div",null,o)}const i=a(c,[["render",s],["__file","general-header.html.vue"]]);export{i as default};
