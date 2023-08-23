@@ -55,11 +55,15 @@ export const sidebarEn: SidebarConfig = {
       ],
     },
     {
-      text: 'tools',
+      text: 'http',
       children: [
         '/waf/tcp-fingerprint.md',
-        '/waf/tls-fingerprint.md',
-        '/waf/http2-fingerprint.md',
+        '/waf/http/tls-fingerprint.md',
+        '/waf/http/http2-fingerprint.md',
+        '/waf/http/ip.md',
+        '/waf/http/user-agent.md',
+        '/waf/http/general-header.md',
+        '/waf/http/custom-header.md',
       ],
     },
     {
