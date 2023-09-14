@@ -4,12 +4,19 @@ title: HTTPS - TSL 指纹
 
 ## TLS Versions
 
-| TLS Version | Value |
-| --- | --- |
-| 1.0 | 769 |
-| 1.1 | 770 |
-| 1.2 | 771 |
-| 1.3 | 772 |
+| Version | Vaule | Comment |
+| ----    | ----- |    ----- |
+| SSL 2.0 | 0x0002 (2 decimal) | Deprecated in 2011 |
+| SSL 3.0 | 0x0300 (768 decimal) | Deprecated in June 2015 |
+| TLS 1.0 | 0x0301 (769 decimal) | Deprecated in January 2020 |
+| TLS 1.1 | 0x0302 (770 decimal) | Deprecated in January 2020 |
+| TLS 1.2 | 0x0303 (771 decimal) | in use |
+| TLS 1.3 | 0x0304 (772 decimal) | in use |
+
+
+
+
+
 
 <https://docs.microsoft.com/en-us/dotnet/api/system.security.authentication.sslprotocols?view=net-5.0>
 

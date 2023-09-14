@@ -65,7 +65,7 @@ browser_chromium_version: 114,
 ## origin
 
 IP
-IP_type: DCH, CDN, PROXY,  internal...
+IP_type: DCH, CDN, RSV ..., <https://blog.ip2location.com/knowledge-base/what-is-usage-type/>
 city
 isp
 
@@ -77,3 +77,9 @@ isp
 - h2_fp_hash
 - device_fp
 - device_fp_hash
+
+## Risk
+
+- score: 0-100
+- level: low, medium, high
+- desc: risk desc
