@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,a as e,b as a}from"./app-e3fa08f8.js";const r={},c=e("h1",{id:"dns-over-https",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#dns-over-https","aria-hidden":"true"},"#"),a(" DNS over HTTPS")],-1),n=[c];function d(_,h){return o(),s("div",null,n)}const l=t(r,[["render",d],["__file","doh.html.vue"]]);export{l as default};

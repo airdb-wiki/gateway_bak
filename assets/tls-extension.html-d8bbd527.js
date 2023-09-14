@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7c17fc1b","path":"/security/fp/tls-extension.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1694656529000,"contributors":[{"name":"bumu","email":"bumu@airdb.io","commits":1}]},"filePathRelative":"security/fp/tls-extension.md"}');export{t as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-0a0cde38","path":"/security/bot/good-bot.html","title":"Good bots","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1692781408000,"contributors":[{"name":"bumu","email":"bumu@airdb.io","commits":1}]},"filePathRelative":"security/bot/good-bot.md"}');export{t as data};
