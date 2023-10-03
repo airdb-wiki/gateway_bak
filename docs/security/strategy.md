@@ -2,11 +2,16 @@
 
 ## 纬度
 
+general
 - [tls]
 - [http]
-- [session]
+- [ipdata]
+
+
 - [ip]
+- [session]
 - [user]
+- [device]
 
 1. IP 限速
 2. 用户登录访问限速
@@ -40,4 +45,5 @@
 | 4 | fakedata | 伪造数据 |
 | 5 | flag | 标记 |
 | 6 | flag | Verification |
-| 9 | client block | 客户端拦截 |
+| 8 | client block | 客户端拦截 |
+| 9 | upgrade | 提示app 升级 |

@@ -8,3 +8,17 @@ Online Parser: https://udger.com/resources/online-parser?action=my
 
 
 https://developer.chrome.com/docs/multidevice/user-agent/
+
+
+
+https://user-agents.net/browsers
+
+Classification	Browser
+Name:	logo Chrome 117.0.5938.132 ->Client detail
+Up to date:	up to date Ok, browser is up to date.
+OS:	logo macOS 14 Sonoma ->OS detail
+Device:	logo Desktop ->Device detail
+Device market name:	logo Apple - Mac ->Device brand detail
+
+
+https://mrluo.life/article/detail/147/about-useragent
