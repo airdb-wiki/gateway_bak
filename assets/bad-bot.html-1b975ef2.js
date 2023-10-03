@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as o,a as e,b as c}from"./app-e3fa08f8.js";const d={},r=e("h1",{id:"bad-bot",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bad-bot","aria-hidden":"true"},"#"),c(" Bad bot")],-1),s=[r];function n(_,i){return a(),o("div",null,s)}const h=t(d,[["render",n],["__file","bad-bot.html.vue"]]);export{h as default};

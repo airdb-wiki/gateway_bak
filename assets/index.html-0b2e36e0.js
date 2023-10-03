@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as n,a as e,b as s}from"./app-e3fa08f8.js";const c={},o=e("h1",{id:"dns",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#dns","aria-hidden":"true"},"#"),s(" DNS")],-1),r=[o];function d(_,i){return a(),n("div",null,r)}const l=t(c,[["render",d],["__file","index.html.vue"]]);export{l as default};
